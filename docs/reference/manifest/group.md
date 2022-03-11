@@ -49,7 +49,7 @@ Required. The label of the group. The **resid** attribute can be no more than 32
 
 ### Icon
 
-Required. If a tab contains a lot of groups and the program window is resized, the specified image may display instead.
+Required. If a tab contains at least 5 groups and the program window is resized, the specified image may display instead.
 
 > [!NOTE]
 > This child element is not supported in Outlook add-ins.
